@@ -1,16 +1,20 @@
-# tp_museum
+# MonaLisaMuseum
 
-A new Flutter project.
+Literally my first Flutter project whose goal is to "copy" (sort of) an Instagram post, you can either double tap on the picture or click the like button to add it to your favourites. 
 
-## Getting Started
+Pressing the article button displays a short scrollable Mona Lisa description.
 
-This project is a starting point for a Flutter application.
+## Infos
 
-A few resources to get you started if this is your first Flutter project:
+Author : Jordan Cheniclet
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project was done during Mr [Alexandre Leroux](https://www.linkedin.com/in/alexandre-leroux-sherpa/)'s first MNS Flutter classes in May 2023.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resources 
+
+[FlutterDoc](https://docs.flutter.dev/)
+
+## Credits
+
+Description and image : [Wikipedia](https://fr.wikipedia.org/wiki/La_Joconde)
+
